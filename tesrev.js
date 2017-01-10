@@ -1,0 +1,1 @@
+<script data-cfasync='false' type='text/javascript' src='//p141472.clksite.com/adServe/banners?tid=141472_285218_1&type=slider&size=800x440&animate=on'></script>
